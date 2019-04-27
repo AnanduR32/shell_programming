@@ -7,7 +7,9 @@ addNames is a script used to add text/names to a particular .txt file which will
 
 addNamesFileCheck is a script used to add text/names to a specified .txt file which will be passed through command line along with the text to be input to the file, the expected number of parameters is 2
 
-addNamesFileCheck is solution to Q)
+addNamesComplex is alternate solution to problem, in which the file to be accessed is mandatorily "classlist.txt" if the file exists then only text is input 
+
+addNamesFileCheck, addNamesComplex are solutions to Q)
      Write a script called addnames that is to be called as follows, where classlist is the name of the classlist file, and username is a particular student's username.
 
   ./addnames classlist username
